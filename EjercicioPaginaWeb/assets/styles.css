@@ -1,0 +1,6 @@
+.bg-miColor {
+    background: linear-gradient(30deg rgba(3, 14, 153, 1) 35% rgba(42, 43, 46) 100%) !important;
+}
+.bg-img {
+    background-image: url(../assets/img/jake-blucker-tMzCrBkM99Y-unsplash.jpg);
+}
